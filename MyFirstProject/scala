@@ -1,0 +1,19 @@
+Scala is functional programming language.
+
+If you want to learn scala we need to have basic knowledge on java programming language.
+
+Scala language is invented with the help of java language.
+
+Here also the entry point is main method.
+
+def-->definition
+
+main-->method name
+
+:-->delimiter 
+
+void-->Unit 
+
+we should return return type in the end of the statement in scala in main method
+
+we came to scala for breveity
